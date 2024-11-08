@@ -1,0 +1,13 @@
+data/
+environment.yml
+
+
+
+rag.txt
+rag_model2.ipynb
+rag_model3.ipynb
+rag_model_full.ipynb
+rag_model_full2.ipynb
+huggingface_datasets.ipynb
+pycharm_test.py
+cudnn-linux-x86_64-9.1.0.70_cuda12-archive
