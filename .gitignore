@@ -2,7 +2,7 @@ data/
 environment.yml
 
 
-
+requirements.txt
 rag.txt
 rag_model2.ipynb
 rag_model3.ipynb
@@ -11,3 +11,10 @@ rag_model_full2.ipynb
 huggingface_datasets.ipynb
 pycharm_test.py
 cudnn-linux-x86_64-9.1.0.70_cuda12-archive
+utility.ipynb
+rag_model_cleaned - Copy.ipynb
+rag_model_On_GITHUB - Copy.ipynb
+rag_model_On_GITHUB_fix - Copy.ipynb
+rag_model_On_GITHUB_fix.ipynb
+rag_model_On_GITHUB.ipynb
+test.ipynb
